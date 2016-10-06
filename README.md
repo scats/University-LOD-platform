@@ -1,1 +1,1 @@
-# VAK-journal
+# Univerity-LOD-platform
