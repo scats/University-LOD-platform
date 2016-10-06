@@ -1,1 +1,1 @@
-# Univerity-LOD-platform
+# University-LOD-platform
